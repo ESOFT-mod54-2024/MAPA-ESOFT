@@ -8,8 +8,8 @@ Guia para criação de uma Branch, que se trata de uma ramificação da versão 
 
 Sou Wesley de França, Estudante de Engenharia de software!
 
-Segue meu GITHUB Oficial
+Segue meu <a href="https://github.com/w3ssfs">GITHUB</a> Oficial
 
-![](https://github.com/w3ssfs)
+
 
 </div>
